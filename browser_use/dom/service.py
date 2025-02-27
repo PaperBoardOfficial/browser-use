@@ -1,7 +1,6 @@
 import gc
 import json
 import logging
-from dataclasses import dataclass
 from importlib import resources
 from typing import TYPE_CHECKING, Optional
 
